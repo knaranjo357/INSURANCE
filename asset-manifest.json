@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/INSURANCE/static/css/main.073c9b0a.css",
+    "main.js": "/INSURANCE/static/js/main.19c15fc8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/INSURANCE/static/js/787.28cb0dcd.chunk.js",
+    "static/media/slider-3-1.jpg": "/INSURANCE/static/media/slider-3-1.0f85101768e2a9f71ab6.jpg",
+    "static/media/Service-5-2.jpg": "/INSURANCE/static/media/Service-5-2.f84ac8238f32b0341f39.jpg",
+    "static/media/about-3-1.jpg": "/INSURANCE/static/media/about-3-1.a228a1018da1c61c068d.jpg",
+    "static/media/icon.png": "/INSURANCE/static/media/icon.960e123ab9c1781dd0d8.png",
+    "static/media/slider-2-1.jpg": "/INSURANCE/static/media/slider-2-1.36a75b12317ec20fc97f.jpg",
+    "static/media/AndresRios.jpg": "/INSURANCE/static/media/AndresRios.1ada4a9bef675f5d1f1b.jpg",
+    "index.html": "/INSURANCE/index.html",
+    "main.073c9b0a.css.map": "/INSURANCE/static/css/main.073c9b0a.css.map",
+    "main.19c15fc8.js.map": "/INSURANCE/static/js/main.19c15fc8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/INSURANCE/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.19c15fc8.js"
+  ]
+}
